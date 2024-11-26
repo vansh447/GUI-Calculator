@@ -1,5 +1,5 @@
 # GUI-Calculator
-![Uploading gui.jpg…]()
+![gui](https://github.com/user-attachments/assets/4c7da274-e1ff-40a8-a479-394b45bba70e)
 
 This project is a basic calculator application with a graphical user interface (GUI) built using Python's tkinter library. The calculator supports basic operations like addition, subtraction, multiplication, and division. It has a simple and user-friendly interface, designed to help users quickly perform calculations.
 
